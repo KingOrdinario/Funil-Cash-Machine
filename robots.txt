@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add the production domain to sitemap.xml after deployment.
